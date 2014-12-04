@@ -59,6 +59,7 @@ application, an ontology of cyber-security requirements will be created.
 ...
 
 References
+
 [1] 	A. T. M. Chinosi, “BPMN: An introduction to the standard,” Computer Standards & Interfaces, pp. 124-134, 2012. 
 [2] 	“Home: BPMN,” OMG, [Online]. Available: http://www.bpmn.org/. [Accessed 1 December 2014].
 [3] 	M. M. S. R.-M. M. Leitner, “An Analysis and Evaluation of Security Aspects in the Business Process Model and Notation,” in 2013 International Conference on Availability, Reliability and Security, 2013. 
