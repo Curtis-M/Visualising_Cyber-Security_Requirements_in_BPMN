@@ -55,3 +55,13 @@ domain works and interacts with each other.
 
 To avoid previous mistakes and ensure all necessary concepts are included, as a prerequisite to the implementation of the 
 application, an ontology of cyber-security requirements will be created. 
+
+...
+
+References
+[1] 	A. T. M. Chinosi, “BPMN: An introduction to the standard,” Computer Standards & Interfaces, pp. 124-134, 2012. 
+[2] 	“Home: BPMN,” OMG, [Online]. Available: http://www.bpmn.org/. [Accessed 1 December 2014].
+[3] 	M. M. S. R.-M. M. Leitner, “An Analysis and Evaluation of Security Aspects in the Business Process Model and Notation,” in 2013 International Conference on Availability, Reliability and Security, 2013. 
+[4] 	D. Moody, “The "Physics" of Notations: Toward a Scientific Basis for Constructing Visual Notations in Software Engineering,” IEEE Transactions on Software Enineering, vol. 35, no. 6, pp. 756-779, 2009. 
+[5] 	E. F.-M. M. P. A. Rodriguez, “A BPMN Extension for the Modeling of Security Requirements in Business Processes,” IEICE Transactions on Information and Systems, pp. 745-752, 2007. 
+[6] 	C. Maines and S. Tang, “An Application of Game Technology to Virtual University Campus Touring and Interior Navigation,” in 7th International Conference on Development in e-Systems Engineering (DESE2014), Phapos, 2014. 
