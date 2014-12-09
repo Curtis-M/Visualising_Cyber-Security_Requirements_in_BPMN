@@ -1,22 +1,17 @@
 ####Using Game Technology To Represent Cyber-Security Requirements In BPMN 2.0
 
 #####1.	Introduction
-At present, BPMN (Business Process Model and Notation) has no industry standard for representing cyber-security requirements. 
-Current extensions lack clear, predetermined concepts that should be modelled. They are being created with primary focus on 
-semantics and very little on symbolic design. Nor the overall diagram design for that matter; the inclusion of security 
-requirements greatly impacts the readability of an already over-elaborate modelling language.
+At present, BPMN (Business Process Model and Notation) has no industry standard for representing cyber-security requirements. There have been several attempts, but current extensions are being created with primary focus on semantics and very little on symbolic design. Nor the overall diagram design; the inclusion of security requirements greatly impacts the readability of an already over-elaborate modelling language. Thus, notations are required which can be included in diagrams without too drastically altering the complexity of them.
 
-This report proposes a research project, which aims to address these problems by utilising the third-dimension through the use of 
-game technology. The first section is a literature review of current extensions, identifying both strengths and weaknesses in 
-their design. The report then continues to detail research aims, proposed design and methodology, and a plan of work for the 
-project.
+This report evidently shows that the inclusion of cyber-security requirements in BPMN is not a simple task, but a detailed process which is going to require much exploration and investigatory work. Throughout the document a research project is proposed which aims to address the problem, by utilisation of the third-dimension. The first section is a literature review of current extensions, identifying both strengths and weaknesses in their design. The report then continues to detail research aims, proposed design and methodology, and a plan of work for the project.
+
 
 #####2. Literature Review
 ######2.1.	Background
 A business process can be described as a set of linked tasks which must be executed in a specific order, collectively resulting in 
 a business objective or policy goal being achieved. These tasks can be conducted across one or multiple organisations [1]. 
 
-Business process model and notation (BPMN) can be used to graphically represent such processes and their component relationships 
+*Business process* model and notation (BPMN) can be used to graphically represent such processes and their component relationships 
 in a common standard between organisations [2]. 
 
 ######2.2.	Existing Extensions and State-of-the-Art Technologies
