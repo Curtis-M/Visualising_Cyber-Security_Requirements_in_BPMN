@@ -7,20 +7,12 @@ Security Requirement
         Authentication
             Personnel Authentication
                 Biometric
-                    Retinal Scan
-                    Fingerprint Scan
-                    Hand Scan
-                    Voice Recognition
-                    Facial Recognition
                 Smart Card
-                    Contact
-                    Contactless
-                    Hybrid
                 Credentials (username/password)
             Network Authentication
                 Virtual Private Network
-                    VPN Protocol
-                Kerberos
+                Cryptographic Protocol
+                Public Key Infrastructure (PKI)
 
     Attack/Harm Detection and Prevention
         Intrusion Detection and Prevention System
@@ -58,6 +50,7 @@ Security Requirement
                     Disc-Based
                     Memory Stick
             Data Retention
+            Hash Function
         Software Integrity Control
             Immunity (antivirus)
             Patch Management System
@@ -77,13 +70,12 @@ Security Requirement
     Non-repudiation
         Digital Signature
         Digital Forensics
+        Public Key Infrastructure (PKI)
 
     Privacy
         Anonymity
             Pseudonymity
         Confidentiality
-            Cryptography
-                (property) Algorithm
-                (property) Protocol
+            Encryption
     
     Availability
